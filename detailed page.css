@@ -57,7 +57,7 @@ footer {
   .item1 {
     grid-column: 1;
     grid-row: 1 / span 3;
-    background-image: url("isidora.jpg");
+    background-image: url("isidora.JPG");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
